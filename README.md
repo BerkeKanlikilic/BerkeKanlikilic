@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking for a remote job on **Game Development Projects** or **Software Engineering Projects**
+- 👯 I’m looking for a remote job on **Game Development** or **Software Engineering Projects**
 
 - 💬 Ask me about **Unity**
 
